@@ -5,6 +5,7 @@ I made this project with my friend Tarık Can Şahin.
 1-)Database= https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 2-)Organizing data for machine learning.
+   
     2a-) MICE METHOD
     
     2b-) Remove nan row
